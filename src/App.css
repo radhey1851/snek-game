@@ -1,33 +1,56 @@
 .App {
-  text-align: center;
-}
-
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
   display: flex;
-  flex-direction: column;
   align-items: center;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  color: rgb(206, 206, 206);
 }
 
-.App-link {
-  color: #61dafb;
+.Console {
+  text-align: center;
+  flex: 2;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.ScoreBoard {
+  flex: 1;
+  border: 0.05em dashed white;
+  padding: 0.5em 1em;
+  margin-left: 2em;
+  font-family: 'arcade', 'Courier New', Courier, monospace;
+  text-align: center;
+  font-size: 2em;
+}
+
+.LeaderBoard {
+  flex: 1;
+  border: 0.05em dashed white;
+  padding: 0.5em 1em;
+  margin-right: 1em;
+  margin-left: 0;
+  font-family: 'arcade', 'Courier New', Courier, monospace;
+  text-align: center;
+  font-size: 2em;
+}
+
+#replay {
+  visibility: hidden;
+  color: rgb(247, 250, 58);
+  text-decoration: none;
+  display: block;
+  margin: 0.5em auto;
+  text-align: center;
+  font-family: 'arcade', 'Courier New', Courier, monospace;
+  font-size: 1.5em;
+}
+
+#replay.gameover {
+  visibility: visible;
+}
+
+.lvl {
+  color: rgb(156, 52, 253);
+}
+
+h1 {
+  font-family: 'arcade', 'Courier New', Courier, monospace;
+  text-align: center;
 }
