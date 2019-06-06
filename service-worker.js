@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/snek-game/precache-manifest.c90711a309a50c00189e407b343eac3f.js"
+  "/snek-game/precache-manifest.b04dcf839881fdad6a2dca4f1a6a6bd3.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5dab6a44fd42d657ec9c8ee4b004d064",
+    "revision": "a81780800c051a0f5181927a00a7de07",
     "url": "/snek-game/index.html"
   },
   {
-    "revision": "63c731627bdaf3028aef",
+    "revision": "5bdfc71980c86999ea7b",
     "url": "/snek-game/static/css/main.12c9a946.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/snek-game/static/js/2.d60fbdff.chunk.js"
   },
   {
-    "revision": "63c731627bdaf3028aef",
-    "url": "/snek-game/static/js/main.54fc7bcd.chunk.js"
+    "revision": "5bdfc71980c86999ea7b",
+    "url": "/snek-game/static/js/main.bad8c657.chunk.js"
   },
   {
     "revision": "ee69ca5f4123a2fffd26",
