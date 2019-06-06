@@ -1,2 +1,2 @@
 # Snek Game
-## Retro style snake game
+Retro style snake game
