@@ -218,7 +218,7 @@ const PlayArea = ({ score: { score, level }, setScore, incrementLevel }) => {
       <canvas ref={myRef} id='canvas' width='500' height='500' />
       <a
         id='replay'
-        onClick={() => init()}
+        onClick={() => window.location.reload()}
         className={gameover ? 'gameover' : ''}
         href='/'
       >
