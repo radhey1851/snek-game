@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/snek-game/static/css/main.12c9a946.chunk.css",
+    "main.css": "/snek-game/static/css/main.675f9050.chunk.css",
     "main.js": "/snek-game/static/js/main.2a0fafb9.chunk.js",
     "main.js.map": "/snek-game/static/js/main.2a0fafb9.chunk.js.map",
     "runtime~main.js": "/snek-game/static/js/runtime~main.98a74df3.js",
@@ -8,9 +8,9 @@
     "static/js/2.d60fbdff.chunk.js": "/snek-game/static/js/2.d60fbdff.chunk.js",
     "static/js/2.d60fbdff.chunk.js.map": "/snek-game/static/js/2.d60fbdff.chunk.js.map",
     "index.html": "/snek-game/index.html",
-    "precache-manifest.b7bee70892d0d4aedf4fb61bce260b85.js": "/snek-game/precache-manifest.b7bee70892d0d4aedf4fb61bce260b85.js",
+    "precache-manifest.6690cfe206807db276c6d8ecc0ac8771.js": "/snek-game/precache-manifest.6690cfe206807db276c6d8ecc0ac8771.js",
     "service-worker.js": "/snek-game/service-worker.js",
-    "static/css/main.12c9a946.chunk.css.map": "/snek-game/static/css/main.12c9a946.chunk.css.map",
+    "static/css/main.675f9050.chunk.css.map": "/snek-game/static/css/main.675f9050.chunk.css.map",
     "static/media/index.css": "/snek-game/static/media/snake2.640249ca.png"
   }
 }
